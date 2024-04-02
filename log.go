@@ -30,6 +30,10 @@ func (l *Logger) Close() {
 	l.zap.Sync()
 }
 
+func (l *Logger) Record() *zap.Logger {
+	return l.zap
+}
+
 func NewDevelopment() (*Logger, error) {
 	logger, err := zap.NewDevelopment()
 	if err != nil {
