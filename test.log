@@ -1,0 +1,8 @@
+2024-04-02T09:44:11+08:00	info	th-log/log_test.go:31	test info 	{"url": "www.test0.com", "name": "jimmmyr", "age": 23, "agradege": "no111-000222"}
+2024-04-02T09:44:11+08:00	info	th-log/log_test.go:31	test info 	{"url": "www.test1.com", "name": "jimmmyr", "age": 23, "agradege": "no111-000222"}
+2024-04-02T09:44:11+08:00	info	th-log/log_test.go:31	test info 	{"url": "www.test2.com", "name": "jimmmyr", "age": 23, "agradege": "no111-000222"}
+2024-04-02T09:44:11+08:00	info	th-log/log_test.go:31	test info 	{"url": "www.test3.com", "name": "jimmmyr", "age": 23, "agradege": "no111-000222"}
+2024-04-02T09:44:11+08:00	info	th-log/log_test.go:31	test info 	{"url": "www.test4.com", "name": "jimmmyr", "age": 23, "agradege": "no111-000222"}
+2024-04-02T09:44:11+08:00	info	th-log/log_test.go:31	test info 	{"url": "www.test5.com", "name": "jimmmyr", "age": 23, "agradege": "no111-000222"}
+2024-04-02T09:44:11+08:00	info	th-log/log_test.go:31	test info 	{"url": "www.test6.com", "name": "jimmmyr", "age": 23, "agradege": "no111-000222"}
+2024-04-02T09:44:11+08:00	info	th-log/log_test.go:31	test info 	{"url": "www.test7.com", "name": "jimmmyr", "age": 23, "agradege": "no111-000222"}
