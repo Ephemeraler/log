@@ -30,10 +30,12 @@ func (l *Logger) Close() {
 	l.zap.Sync()
 }
 
+// Record returns the underlying zap logger.
 func (l *Logger) Record() *zap.Logger {
 	return l.zap
 }
 
+// NewDevelopment creates a new logger for development environment.
 func NewDevelopment() (*Logger, error) {
 	logger, err := zap.NewDevelopment()
 	if err != nil {
